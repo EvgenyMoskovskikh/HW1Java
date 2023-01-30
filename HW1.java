@@ -20,7 +20,6 @@ public static void task2(){
 /*
 Вычислить n! (произведение чисел от 1 до n)
 */
-Scanner scanner = new Scanner(System.in);
 System.out.print("Введите число: ");
 int num = scanner.nextInt();
 int res = 1;
